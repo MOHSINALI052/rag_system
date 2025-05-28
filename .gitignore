@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+myenv/
+.env
+config.env
+
+# VSCode settings
+.vscode/
+
+# OS metadata
+.DS_Store
+
+# Compiled bytecode
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment or config
+config.py
+
+# Logs or debug
+*.log

@@ -1,0 +1,6 @@
+sentence-transformers
+transformers
+pdfminer.six  # often used in custom PDF loaders
+numpy
+faiss-cpu
+fitz
